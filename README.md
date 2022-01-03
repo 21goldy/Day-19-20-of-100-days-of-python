@@ -1,2 +1,2 @@
-# Day-19-of-100-days-of-python
-#day19 #snakeGame
+# Day-19-20-of-100-days-of-python
+#day19&20 #snakeGame
